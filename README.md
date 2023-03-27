@@ -7,7 +7,7 @@ Dependencies: `gcc, make`
 ```shell
 cd RISKXVII-VM/examples
 chmod 755 *
-cd RISKXVII/src
+cd RISKXVII/include
 chmod 755 *
 cd RISKXVII/src
 chmod 755 *
