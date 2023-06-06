@@ -1,5 +1,4 @@
-### Riskxvii-vm
-Riskxvii-vm is a commandline invoked virtual machine implementation in C. It takes machine code as command line aeguments, assembles it into assembly instructions which are saved in binary files.
+
 <div align=center>
          
 | **Please star ⭐ the repo if you find it useful. Issues and PRs are more then WELCOME!** |
@@ -14,11 +13,8 @@ Riskxvii-vm is a commandline invoked virtual machine implementation in C. It tak
 ![Discord](https://img.shields.io/discord/1014893148599754894)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)--->
 </div>
-# 📜 License
-
-Copyright 2022 CodeDroid999.
-
-Licensed under the Apache License, Version 2.0 (the "License");
+### Riskxvii-vm
+Riskxvii-vm is a commandline invoked virtual machine implementation in C. It takes machine code as command line aeguments, assembles it into assembly instructions which are saved in binary files.
 
 
 ### Building riskxvii-vm from Source
